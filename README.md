@@ -19,16 +19,18 @@ These findings can help businesses optimize coupon distribution strategies to re
 ### Key Visualizations
 
 **Coupon Acceptance by Type**
-![Coupon Acceptance by Type](images/status.png)
+![Coupon Acceptance by Type](images/coupon_acceptance_by_type.png)
 
 **Acceptance Rate by Demographics**
-![Acceptance Rate by Demographics](images/instructions.png)
+![Acceptance Rate by Age](images/coupon_acceptance_by_age.png)
+![Acceptance Rate by gender](images/coupon_acceptance_by_gender.png)
+![Acceptance Rate by maritalStatus](images/coupon_acceptance_by_maritalStatus.png)
 
 **Bar Coupon Analysis**
-![Bar Coupon Analysis](images/bar.png)
+![Bar Coupon Analysis](images/bar_coupon_acceptance_rate.png)
 
 **Dine-In vs Take-Out Acceptance**
-![Dine-In vs Take-Out Acceptance](images/terminal.png)
+![Dine-In vs Take-Out Acceptance](images/dine_in_vs_take_out_acceptance_rate.png)
 
 
 
